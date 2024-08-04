@@ -1,0 +1,37 @@
+[
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e51" },
+    "name": "Smartphones",
+    "description": "Latest smartphones with advanced features and specifications.",
+    "createdAt": { "$date": "2023-07-15T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-15T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e52" },
+    "name": "Headphones",
+    "description": "High-quality headphones with superior sound and noise-canceling technology.",
+    "createdAt": { "$date": "2023-07-15T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-15T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e53" },
+    "name": "Laptops",
+    "description": "Powerful laptops for work, gaming, and everything in between.",
+    "createdAt": { "$date": "2023-07-15T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-15T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e54" },
+    "name": "Shoes",
+    "description": "Stylish and comfortable shoes for all occasions.",
+    "createdAt": { "$date": "2023-07-15T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-15T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e55" },
+    "name": "Home Appliances",
+    "description": "Essential appliances for your home and kitchen.",
+    "createdAt": { "$date": "2023-07-15T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-15T12:00:00Z" }
+  }
+]

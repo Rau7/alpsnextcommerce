@@ -1,0 +1,262 @@
+[
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e41" },
+    "name": "Apple iPhone 13",
+    "description": "The latest iPhone with A15 Bionic chip, 5G capability, and improved camera system.",
+    "price": 999.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e51",
+    "images": [
+      "https://example.com/iphone13-front.jpg",
+      "https://example.com/iphone13-back.jpg"
+    ],
+    "quantity": 50,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e61",
+        "rating": 5,
+        "comment": "Excellent phone!"
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e62",
+        "rating": 4,
+        "comment": "Great performance but a bit pricey."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-20T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-20T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e42" },
+    "name": "Samsung Galaxy S21",
+    "description": "Experience the epic features of Galaxy S21 with its ultra-fast processor and dynamic AMOLED display.",
+    "price": 899.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e51",
+    "images": [
+      "https://example.com/galaxy-s21-front.jpg",
+      "https://example.com/galaxy-s21-back.jpg"
+    ],
+    "quantity": 40,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e63",
+        "rating": 5,
+        "comment": "Fantastic phone with amazing features."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e64",
+        "rating": 4,
+        "comment": "Great phone but battery life could be better."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-21T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-21T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e43" },
+    "name": "Sony WH-1000XM4 Headphones",
+    "description": "Industry-leading noise canceling with Dual Noise Sensor technology.",
+    "price": 349.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e52",
+    "images": [
+      "https://example.com/sony-wh1000xm4-front.jpg",
+      "https://example.com/sony-wh1000xm4-back.jpg"
+    ],
+    "quantity": 30,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e65",
+        "rating": 5,
+        "comment": "Best noise-canceling headphones!"
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e66",
+        "rating": 4,
+        "comment": "Comfortable but a bit expensive."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-22T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-22T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e44" },
+    "name": "Dell XPS 13 Laptop",
+    "description": "Powerful and portable, the Dell XPS 13 features a stunning 13.4-inch display.",
+    "price": 1299.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e53",
+    "images": [
+      "https://example.com/dell-xps13-front.jpg",
+      "https://example.com/dell-xps13-back.jpg"
+    ],
+    "quantity": 20,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e67",
+        "rating": 5,
+        "comment": "Amazing laptop with great performance."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e68",
+        "rating": 4,
+        "comment": "Excellent laptop but a bit pricey."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-23T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-23T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e45" },
+    "name": "Nike Air Max 270",
+    "description": "The Nike Air Max 270 features the first-ever Max Air unit created specifically for Nike Sportswear.",
+    "price": 150.0,
+    "category": "64cb1a6a7b1e8b8b2f8f5e54",
+    "images": [
+      "https://example.com/nike-airmax270-front.jpg",
+      "https://example.com/nike-airmax270-back.jpg"
+    ],
+    "quantity": 60,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e69",
+        "rating": 5,
+        "comment": "Super comfortable and stylish."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e70",
+        "rating": 4,
+        "comment": "Great shoes but a bit tight."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-24T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-24T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e46" },
+    "name": "KitchenAid Stand Mixer",
+    "description": "The KitchenAid Stand Mixer features 10 speeds to thoroughly mix, knead and whip ingredients quickly and easily.",
+    "price": 379.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e55",
+    "images": [
+      "https://example.com/kitchenaid-mixer-front.jpg",
+      "https://example.com/kitchenaid-mixer-back.jpg"
+    ],
+    "quantity": 25,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e71",
+        "rating": 5,
+        "comment": "A must-have for any kitchen."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e72",
+        "rating": 4,
+        "comment": "Great mixer but a bit bulky."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-25T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-25T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e47" },
+    "name": "Sony PlayStation 5",
+    "description": "The PS5 console unleashes new gaming possibilities that you never anticipated.",
+    "price": 499.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e56",
+    "images": [
+      "https://example.com/ps5-front.jpg",
+      "https://example.com/ps5-back.jpg"
+    ],
+    "quantity": 15,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e73",
+        "rating": 5,
+        "comment": "Next-gen gaming at its best."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e74",
+        "rating": 4,
+        "comment": "Amazing console but hard to find in stock."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-26T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-26T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e48" },
+    "name": "Oculus Quest 2",
+    "description": "Experience the future of gaming with Oculus Quest 2, our most advanced all-in-one VR system.",
+    "price": 399.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e56",
+    "images": [
+      "https://example.com/oculus-quest2-front.jpg",
+      "https://example.com/oculus-quest2-back.jpg"
+    ],
+    "quantity": 35,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e75",
+        "rating": 5,
+        "comment": "Incredible VR experience."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e76",
+        "rating": 4,
+        "comment": "Great VR system but needs more games."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-27T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-27T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e49" },
+    "name": "Bose QuietComfort 35 II",
+    "description": "Bose QuietComfort 35 II wireless Bluetooth headphones with noise-canceling technology.",
+    "price": 299.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e52",
+    "images": [
+      "https://example.com/bose-qc35ii-front.jpg",
+      "https://example.com/bose-qc35ii-back.jpg"
+    ],
+    "quantity": 45,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e77",
+        "rating": 5,
+        "comment": "Best noise-canceling headphones."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e78",
+        "rating": 4,
+        "comment": "Very comfortable but a bit expensive."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-28T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-28T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "64cb1a6a7b1e8b8b2f8f5e50" },
+    "name": "Dyson V11 Vacuum Cleaner",
+    "description": "Dyson V11 cordless vacuum cleaner with powerful suction and advanced filtration.",
+    "price": 599.99,
+    "category": "64cb1a6a7b1e8b8b2f8f5e55",
+    "images": [
+      "https://example.com/dyson-v11-front.jpg",
+      "https://example.com/dyson-v11-back.jpg"
+    ],
+    "quantity": 25,
+    "ratings": [
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e79",
+        "rating": 5,
+        "comment": "Best vacuum cleaner I’ve ever owned."
+      },
+      {
+        "userId": "64cb1a6a7b1e8b8b2f8f5e80",
+        "rating": 4,
+        "comment": "Great suction power but a bit noisy."
+      }
+    ],
+    "createdAt": { "$date": "2023-07-29T12:00:00Z" },
+    "updatedAt": { "$date": "2023-07-29T12:00:00Z" }
+  }
+]
